@@ -11,13 +11,12 @@ namespace Tricepsz.Actors
 {
     public class Actor
     {
-        private Strategy strategy;
 
         public Actor(string name, string civ, Strategy strategy)
         {
             this.Name = name;
             this.Civ = civ;
-            this.strategy = strategy;
+            this.Strategy = strategy;
         }
 
         public string Civ { get; set; }

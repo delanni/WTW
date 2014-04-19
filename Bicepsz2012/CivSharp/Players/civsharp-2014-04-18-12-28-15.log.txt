@@ -1,3 +1,0 @@
-Játékosok betöltése a 'd:\Tananyag\MSC III\WTW\Bicepsz2012\CivSharp\Players' mappából
-'Johnny Bravo' játékos betöltve.
-HIBA: Legalább 2 játékosnak kell lennie a Players mappában, de jelenleg csak 1-t találtam.
