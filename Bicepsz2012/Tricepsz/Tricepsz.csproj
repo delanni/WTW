@@ -35,6 +35,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,6 +46,12 @@
   <ItemGroup>
     <Compile Include="Actors\Actor.cs" />
     <Compile Include="Helpers\ConversionHelpers.cs" />
+    <Compile Include="Helpers\Debugger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helpers\Debugger.Designer.cs">
+      <DependentUpon>Debugger.cs</DependentUpon>
+    </Compile>
     <Compile Include="Knowledge\Knowledge.cs" />
     <Compile Include="Knowledge\Map.cs" />
     <Compile Include="Knowledge\Position.cs" />
@@ -55,7 +63,11 @@
     <Compile Include="TricepszPlayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Helpers\Debugger.resx">
+      <DependentUpon>Debugger.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>copy /Y $(TargetPath) "$(SolutionDir)\CivSharp\Players\"</PostBuildEvent>

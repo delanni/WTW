@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Tricepsz.Actors;
+using Tricepsz.Helpers;
 using Tricepsz.Knowledge;
 using Tricepsz.Strategies;
 
@@ -12,7 +13,14 @@ namespace Tricepsz
 {
     public class TricepszPlayer : IPlayer
     {
-        Actor ai = new Actor("Johnny Bravo II.", "civ1", new Strategy());
+        Actor ai;
+        Debugger d;
+        public TricepszPlayer()
+        {
+            ai = new Actor("Johnny Bravo II.", "civ1", new Strategy());
+            d = new Debugger();
+            d.Show();
+        }
 
         public string PlayerName
         {
@@ -28,6 +36,7 @@ namespace Tricepsz
         {
             // round started, save world info and do preliminary calculations
             ai.Map = new Map(world);
+            ai.Round = turn;
             ai.UpdateObjectives();
         }
 

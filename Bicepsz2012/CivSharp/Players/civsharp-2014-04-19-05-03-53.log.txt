@@ -1,0 +1,21 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.19 05:03:53
+1. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+2. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+3. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+4. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+5. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+6. kör
+'Johnny Bravo II.' következik.

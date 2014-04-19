@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tricepsz.Helpers;
 
 namespace Tricepsz.Strategies
 {
@@ -24,7 +25,11 @@ namespace Tricepsz.Strategies
             }
 
             // Invocation should yield true if the objective has finished, and may be disposed;
-            return Operation.Invoke(Orders);
+            var ordersBefore = Orders.Count;
+            var result = Operation.Invoke(Orders);
+            Debugger.Log("Executing [operation: " + Name + "] was " + (result ? "success" : "failure"));
+            Debugger.Log("[operation: " + Name + "] yielded " + (Orders.Count - ordersBefore).ToString() + " new orders.");
+            return result;
         }
         public void Clear()
         {

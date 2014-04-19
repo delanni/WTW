@@ -1,0 +1,16 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.19 05:03:26
+1. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA '500': System.Exception: ALMA
+   at Tricepsz.Strategies.Strategy.<SetGoal>b__1(List`1 orderList)
+   at Tricepsz.Strategies.Objective.Execute()
+   at Tricepsz.Strategies.Strategy.UpdateObjectives()
+   at Tricepsz.Actors.Actor.UpdateObjectives()
+   at Tricepsz.TricepszPlayer.RefreshWorldInfo(Int32 turn, WorldInfo world)
+   at CivSharpGame.GameController.RunGame()
+2. kör
+1. helyezett: 'Johnny Bravo2'. Túlélt: True. Kredit: 225. Körök száma: 1. Átlagos futási idő: 407,58 ms. Max. futási idő: 407,58 ms.

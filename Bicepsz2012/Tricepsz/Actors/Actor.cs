@@ -17,6 +17,7 @@ namespace Tricepsz.Actors
             this.Name = name;
             this.Civ = civ;
             this.Strategy = strategy;
+            Initialize();
         }
 
         public string Civ { get; set; }
@@ -29,8 +30,6 @@ namespace Tricepsz.Actors
             Strategy.Actor = this;
             Strategy.SetGoal();
         }
-
-
 
         internal MovementData PopNextMovementOrder()
         {
@@ -61,5 +60,7 @@ namespace Tricepsz.Actors
         {
             Strategy.UpdateObjectives();
         }
+
+        public int Round { get; set; }
     }
 }

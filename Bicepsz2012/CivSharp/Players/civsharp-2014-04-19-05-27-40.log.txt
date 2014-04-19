@@ -1,7 +1,7 @@
 Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
 'Johnny Bravo II.' játékos betöltve.
 'Johnny Bravo2' játékos betöltve.
-Játék elindult: 2014.04.19 04:50:41
+Játék elindult: 2014.04.19 05:27:40
 1. kör
 'Johnny Bravo II.' következik.
 'Johnny Bravo2' következik.
@@ -303,6 +303,6 @@ Játék elindult: 2014.04.19 04:50:41
 'Johnny Bravo II.' következik.
 'Johnny Bravo2' következik.
 101. kör
-1. helyezett: 'Johnny Bravo2'. Túlélt: True. Kredit: 2700. Körök száma: 100. Átlagos futási idő: 407,602993 ms. Max. futási idő: 486,2874 ms.
-2. helyezett: 'Johnny Bravo II.'. Túlélt: True. Kredit: 2700. Körök száma: 100. Átlagos futási idő: 408,533905 ms. Max. futási idő: 482,192 ms.
-Játék manuálisan leállítva: 2014.04.19 04:52:14
+1. helyezett: 'Johnny Bravo2'. Túlélt: True. Kredit: 2700. Körök száma: 100. Átlagos futási idő: 196,760135 ms. Max. futási idő: 430,5134 ms.
+2. helyezett: 'Johnny Bravo II.'. Túlélt: True. Kredit: 2700. Körök száma: 100. Átlagos futási idő: 202,187603 ms. Max. futási idő: 422,1093 ms.
+Játék manuálisan leállítva: 2014.04.19 05:28:27

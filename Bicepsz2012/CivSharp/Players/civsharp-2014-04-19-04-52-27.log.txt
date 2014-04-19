@@ -1,0 +1,14 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.19 04:52:27
+1. kör
+'Johnny Bravo II.' következik.
+'Johnny Bravo2' következik.
+2. kör
+'Johnny Bravo II.' következik.
+Játék manuálisan leállítva: 2014.04.19 04:52:28
+HIBA '500': System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at CivSharpGame.GameController.RunGame()
