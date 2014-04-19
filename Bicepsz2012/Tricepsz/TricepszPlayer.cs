@@ -12,7 +12,7 @@ namespace Tricepsz
 {
     public class TricepszPlayer : IPlayer
     {
-        Actor ai = new Actor("Johnny Bravo", "civ1", new Strategy());
+        Actor ai = new Actor("Johnny Bravo II.", "civ1", new Strategy());
 
         public string PlayerName
         {
