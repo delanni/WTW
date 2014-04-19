@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32/trunk/CivSharp.Bicepsz
+END
+ResearchHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/CivSharp.Bicepsz/ResearchHelper.cs
+END
+Bicepsz.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/34/trunk/CivSharp.Bicepsz/Bicepsz.cs
+END
+BuyHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/CivSharp.Bicepsz/BuyHelper.cs
+END
+UnitHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29/trunk/CivSharp.Bicepsz/UnitHelper.cs
+END
+WorldInfoExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/34/trunk/CivSharp.Bicepsz/WorldInfoExtensions.cs
+END
+DomainMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/CivSharp.Bicepsz/DomainMap.cs
+END
+CivSharp.Bicepsz.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/22/trunk/CivSharp.Bicepsz/CivSharp.Bicepsz.csproj
+END
+Point.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/CivSharp.Bicepsz/Point.cs
+END

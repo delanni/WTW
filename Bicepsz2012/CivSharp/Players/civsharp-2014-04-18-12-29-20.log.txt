@@ -1,0 +1,31 @@
+Játékosok betöltése a 'd:\Tananyag\MSC III\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo2' játékos betöltve.
+'Johnny Bravo' játékos betöltve.
+Játék elindult: 2014.04.18 12:29:21
+1. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+2. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+3. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+4. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+5. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+6. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+7. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+8. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.
+9. kör
+'Johnny Bravo' következik.
+'Johnny Bravo2' következik.

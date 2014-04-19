@@ -1,0 +1,40 @@
+Játékosok betöltése a 'c:\projektek\WTW\2012\civsharp-indulokeszlet-8\játékvezérlï\Players' mappából
+'Adogatós Albatrosz' játékos betöltve.
+'Random Player' játékos betöltve.
+'Sample Player 341' játékos betöltve.
+Játék elindult: 2012.05.12 11:17:55
+1. kör
+'Sample Player 341' következik.
+'Sample Player 341' játékos kifejlesztette 'famegmunkálás'-t.
+'Sample Player 341' játékos új 'talpas'-t épített itt: 0,0.
+'Random Player' következik.
+'Random Player' játékos új 'talpas'-t épített itt: 0,14.
+'Random Player' játékos új 'talpas'-t épített itt: 0,14.
+'Adogatós Albatrosz' következik.
+'Adogatós Albatrosz' játékos kifejlesztette 'famegmunkálás'-t.
+Játék szabályosan végetért: 2012.05.12 11:17:59
+2. kör
+'Sample Player 341' következik.
+'Sample Player 341' játékos 'talpas-6' egységgel lép: 0,0 -> 0,0
+'Sample Player 341' játékos 'talpas-6' egységgel lép: 0,0 -> 1,0
+'Random Player' következik.
+'Random Player' játékos 'talpas-7' egységgel lép: 0,14 -> 1,13
+'Random Player' játékos 'talpas-7' egységgel lép: 1,13 -> 0,13
+'Random Player' játékos 'talpas-8' egységgel lép: 0,14 -> 1,14
+'Random Player' játékos 'talpas-8' egységgel lép: 1,14 -> 1,14
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+Játék szabályosan végetért: 2012.05.12 11:18:03
+3. kör
+'Sample Player 341' következik.
+'Sample Player 341' játékos kifejlesztette 'íjászat'-t.
+'Random Player' következik.
+'Random Player' játékos 'talpas-8' egységgel lép: 1,14 -> 0,14
+'Random Player' játékos 'talpas-8' egységgel lép: 0,14 -> 0,13
+'Random Player' játékos 'talpas-7' egységgel lép: 0,13 -> 1,13
+'Random Player' játékos 'talpas-7' egységgel lép: 1,13 -> 1,14
+Játék manuálisan leállítva: 2012.05.12 11:18:06
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at f.e()

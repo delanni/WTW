@@ -1,0 +1,73 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using CivSharp.Common;
+using CivSharp.Bicepsz;
+
+namespace bicepszTeszt
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            WorldInfo world;
+            string a = Bicepsz.PlayerNameStatic;
+            CityInfo[] cities = new CityInfo[9];
+            for (int i = 0; i < 9; i++)
+            {
+                cities[i] = new CityInfo() { Owner = a };
+            }
+
+            cities[0].PositionX = 0;
+            cities[0].PositionY = 0;
+            cities[1].PositionX = 0;
+            cities[1].PositionY = 2;
+            cities[2].PositionX = 2;
+            cities[2].PositionY = 0;
+            cities[3].PositionX = 1;
+            cities[3].PositionY = 1;
+            cities[4].PositionX = 3;
+            cities[4].PositionY = 1;
+            cities[5].PositionX = 1;
+            cities[5].PositionY = 3;
+            cities[6].PositionX = 1;
+            cities[6].PositionY = 5;
+            cities[7].PositionX = 5;
+            cities[7].PositionY = 1;
+            cities[8].PositionX = 2;
+            cities[8].PositionY = 2;
+
+
+            world = new WorldInfo()
+            {
+                Cities = cities,
+                Players = null,
+                Units = null
+            };
+
+            for (int i = 0; i < 15; i++)
+            {
+                for (int j = 0; j < 15; j++)
+                {
+                    if (cities.Any(w => w.PositionX ==i && w.PositionY == j)) Console.Write("0");
+                    else Console.Write(" ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+                
+              bool[,] b =  world.GetDomainBorder();
+              for (int i = 0; i < 15; i++)
+              {
+                  for (int j = 0; j < 15; j++)
+                  {
+                      if (b[i, j]) Console.Write("0");
+                      else Console.Write("X");
+                  }
+                  Console.WriteLine();
+              }
+        }
+    }
+}

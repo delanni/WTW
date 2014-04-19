@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace CivSharp.Bicepsz
+{
+    public class Point
+    {
+        public int X { get; set; }
+        public int Y { get; set; }
+
+        public Point(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        public double DistanceTo(Point other)
+        {
+            int dx = other.X - X;
+            int dy = other.Y - Y;
+            return Math.Sqrt(dx * dx + dy * dy);
+        }
+
+        public double StepsTo(Point other)
+        {
+            int dx = other.X - X;
+            int dy = other.Y - Y;
+            return Math.Abs(dx) + Math.Abs(dy);
+        }
+
+    }
+
+    public static class PointExtensions
+    {
+        public static IEnumerable<Point> SelectEven(this IEnumerable<Point> points)
+        {
+            return points.Where(x => (x.X + x.Y) % 2 == 1);
+        }
+
+        public static IEnumerable<Point> GetPointsOfState(this IEnumerable<Point> points, DomainMap map, CellState state)
+        {
+            return points.Where(w => map.GetCell(w) == state);
+        }
+
+        public static IEnumerable<Point> GetSafePoints(this IEnumerable<Point> points, DomainMap map)
+        {
+            return GetPointsOfState(points, map, CellState.Safe);
+        }
+        public static IEnumerable<Point> GetUrgentPoints(this IEnumerable<Point> points, DomainMap map)
+        {
+            return GetPointsOfState(points, map, CellState.Urgent);
+        }
+        public static IEnumerable<Point> GetDangeredPoints(this IEnumerable<Point> points, DomainMap map)
+        {
+            return GetPointsOfState(points, map, CellState.Danger);
+        }
+    }
+
+}

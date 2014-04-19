@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using CivSharp;
+
+namespace CivSharp.Bicepsz
+{
+    public static class Units
+    {
+        public const string Talpas = "talpas";
+        public const string Ijasz = "íjász";
+        public const string Landzsas = "lándzsás";
+        public const string Lovag = "lovag";
+        public const string Katapult = "katapult";
+    }
+
+    public static class Research
+    {
+        public const string famegmunkalas = "famegmunkálás";
+        public const string ijaszat = "íjászat";
+        public const string kerek = "kerék";
+        public const string katapult = "katapult";
+        public const string landzsa = "lándzsa";
+        public const string lotenyesztes = "lótenyésztés";
+        public const string lovag = "lovag";
+        public const string iras = "írás";
+        public const string birosag = "bíróság";
+        public const string colopkerites = "cölöpkerítés";
+        public const string kofal = "kőfal";
+    }
+
+    public static class Costs
+    {
+        public static readonly Dictionary<string, int> ResearchCost = new Dictionary<string, int>()
+        {
+            {Research.famegmunkalas,50},
+            {Research.landzsa,70},
+            {Research.ijaszat,50},
+            {Research.kerek,200},
+            {Research.katapult,300},
+            {Research.lovag,150},
+            {Research.iras,100},
+            {Research.birosag,300},
+            {Research.colopkerites,100},
+            {Research.kofal,300},
+        };
+
+        public static readonly Dictionary<string, int> UnitCost = new Dictionary<string, int>()
+        {
+            {Units.Talpas, 30},
+            {Units.Ijasz, 50},
+            {Units.Landzsas, 50},
+            {Units.Lovag, 100},
+            {Units.Katapult,200}
+        };
+    }
+
+    public static class Dependencies
+    {
+        public static readonly Dictionary<string, string> ResearchDependency = new Dictionary<string, string>()
+        {
+            {Research.katapult, Research.kerek},
+            {Research.kerek, Research.famegmunkalas},
+            {Research.ijaszat, Research.famegmunkalas},
+            {Research.landzsa, Research.famegmunkalas},
+            {Research.lovag, Research.lotenyesztes},
+            {Research.birosag, Research.iras},
+            {Research.kofal, Research.colopkerites},
+            {Research.famegmunkalas, string.Empty},
+            {Research.iras, string.Empty},
+            {Research.colopkerites, string.Empty},
+            {Research.lotenyesztes, string.Empty}
+        };
+
+        public static readonly Dictionary<string, string> UnitDependency = new Dictionary<string, string>()
+        {
+            {Units.Talpas, string.Empty},
+            {Units.Ijasz, Research.ijaszat},
+            {Units.Landzsas, Research.landzsa},
+            {Units.Lovag, Research.lovag},
+            {Units.Katapult, Research.katapult}
+        };
+    }
+
+    public static class UnitStats
+    {
+        public static readonly Dictionary<string, int> AttackPower = new Dictionary<string,int>()
+        {
+            {Units.Talpas,1},
+            {Units.Ijasz,1},
+            {Units.Landzsas,2},
+            {Units.Lovag,4},
+            {Units.Katapult,8},
+        };
+
+        public static readonly Dictionary<string, int> DefensePower = new Dictionary<string, int>()
+        {
+            {Units.Talpas,1},
+            {Units.Ijasz,3},
+            {Units.Landzsas,2},
+            {Units.Lovag,4},
+            {Units.Katapult,3},
+        };
+        public static readonly Dictionary<string, int> TotalMoves = new Dictionary<string, int>()
+        {
+            {Units.Talpas,2},
+            {Units.Ijasz,2},
+            {Units.Landzsas,2},
+            {Units.Lovag,3},
+            {Units.Katapult,1},
+        };
+    }
+
+    
+}

@@ -1,0 +1,14 @@
+Játékosok betöltése a 'c:\projektek\WTW\2012\civsharp-indulokeszlet-8\játékvezérlï\Players' mappából
+'Adogatós Albatrosz' játékos betöltve.
+'Random Player' játékos betöltve.
+'Sample Player 322' játékos betöltve.
+Játék elindult: 2012.05.12 11:17:27
+1. kör
+'Adogatós Albatrosz' következik.
+'Adogatós Albatrosz' játékos kifejlesztette 'famegmunkálás'-t.
+'Sample Player 322' következik.
+Játék manuálisan leállítva: 2012.05.12 11:17:28
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at f.e()

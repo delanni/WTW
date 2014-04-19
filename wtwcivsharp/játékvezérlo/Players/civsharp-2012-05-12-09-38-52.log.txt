@@ -1,0 +1,37 @@
+Játékosok betöltése a 'c:\projektek\WTW\2012\civsharp-indulokeszlet-8\játékvezérlï\Players' mappából
+'Adogatós Albatrosz' játékos betöltve.
+'Random Player' játékos betöltve.
+'Sample Player 423' játékos betöltve.
+Játék elindult: 2012.05.12 09:38:52
+1. kör
+'Sample Player 423' következik.
+'Sample Player 423' játékos kifejlesztette 'famegmunkálás'-t.
+'Sample Player 423' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+'Adogatós Albatrosz' játékos kifejlesztette 'famegmunkálás'-t.
+'Random Player' következik.
+'Random Player' játékos új 'talpas'-t épített itt: 14,0.
+'Random Player' játékos új 'talpas'-t épített itt: 14,0.
+Játék szabályosan végetért: 2012.05.12 09:38:55
+2. kör
+'Sample Player 423' következik.
+'Sample Player 423' játékos 'talpas-1' egységgel lép: 0,0 -> 1,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 14,0 -> 13,1
+'Random Player' játékos 'talpas-2' egységgel lép: 14,0 -> 13,0
+'Random Player' játékos 'talpas-2' egységgel lép: 13,0 -> 13,0
+'Random Player' játékos 'talpas-3' egységgel lép: 13,1 -> 12,2
+Játék szabályosan végetért: 2012.05.12 09:38:59
+3. kör
+'Sample Player 423' következik.
+'Sample Player 423' játékos 'talpas-1' egységgel lép: 1,1 -> 1,0
+'Sample Player 423' játékos 'talpas-1' egységgel lép: 1,0 -> 1,0
+'Sample Player 423' játékos kifejlesztette 'íjászat'-t.
+'Adogatós Albatrosz' következik.
+Játék manuálisan leállítva: 2012.05.12 09:39:02
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at f.e()

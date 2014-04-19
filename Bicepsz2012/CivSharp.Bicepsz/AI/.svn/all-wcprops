@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32/trunk/CivSharp.Bicepsz/AI
+END
+CityAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/trunk/CivSharp.Bicepsz/AI/CityAI.cs
+END
+HiveMind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32/trunk/CivSharp.Bicepsz/AI/HiveMind.cs
+END
+UnitAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/34/trunk/CivSharp.Bicepsz/AI/UnitAI.cs
+END

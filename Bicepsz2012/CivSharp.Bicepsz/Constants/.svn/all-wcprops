@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29/trunk/CivSharp.Bicepsz/Constants
+END
+Costs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/29/trunk/CivSharp.Bicepsz/Constants/Costs.cs
+END
+Research.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/CivSharp.Bicepsz/Constants/Research.cs
+END
+UnitStats.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22/trunk/CivSharp.Bicepsz/Constants/UnitStats.cs
+END
+Units.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/22/trunk/CivSharp.Bicepsz/Constants/Units.cs
+END
+Dependencies.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/22/trunk/CivSharp.Bicepsz/Constants/Dependencies.cs
+END

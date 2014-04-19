@@ -1,0 +1,638 @@
+Játékosok betöltése a 'c:\projektek\WTW\2012\civsharp-indulokeszlet-8\játékvezérlï\Players' mappából
+'Adogatós Albatrosz' játékos betöltve.
+'Random Player' játékos betöltve.
+'Sample Player 652' játékos betöltve.
+Játék elindult: 2012.05.12 11:27:36
+1. kör
+'Random Player' következik.
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+'Adogatós Albatrosz' játékos kifejlesztette 'famegmunkálás'-t.
+'Sample Player 652' következik.
+'Sample Player 652' játékos kifejlesztette 'famegmunkálás'-t.
+'Sample Player 652' játékos új 'talpas'-t épített itt: 14,0.
+Játék szabályosan végetért: 2012.05.12 11:27:39
+2. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-3' egységgel lép: 1,1 -> 1,2
+'Random Player' játékos 'talpas-4' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-4' egységgel lép: 1,1 -> 2,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 14,0 -> 13,1
+Játék szabályosan végetért: 2012.05.12 11:27:43
+3. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 1,2 -> 0,3
+'Random Player' játékos 'talpas-4' egységgel lép: 2,1 -> 1,1
+'Random Player' játékos 'talpas-3' egységgel lép: 0,3 -> 0,3
+'Random Player' játékos 'talpas-4' egységgel lép: 1,1 -> 1,2
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 13,1 -> 13,0
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 13,0 -> 13,0
+'Sample Player 652' játékos kifejlesztette 'íjászat'-t.
+Játék szabályosan végetért: 2012.05.12 11:27:44
+4. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 1,2 -> 0,2
+'Random Player' játékos 'talpas-3' egységgel lép: 0,3 -> 1,4
+'Random Player' játékos 'talpas-3' egységgel lép: 1,4 -> 2,5
+'Random Player' játékos 'talpas-4' egységgel lép: 0,2 -> 0,2
+'Random Player' játékos 'talpas-6' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 0,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:44
+5. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 0,2 -> 1,1
+'Random Player' játékos 'talpas-4' egységgel lép: 1,1 -> 2,1
+'Random Player' játékos 'talpas-3' egységgel lép: 2,5 -> 3,5
+'Random Player' játékos 'talpas-6' egységgel lép: 0,2 -> 0,2
+'Random Player' játékos 'talpas-3' egységgel lép: 3,5 -> 3,5
+'Random Player' játékos 'talpas-6' egységgel lép: 0,2 -> 1,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:44
+6. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 2,1 -> 1,0
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 2,0
+'Random Player' játékos 'talpas-6' egységgel lép: 2,0 -> 1,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,5 -> 2,5
+'Random Player' játékos 'talpas-4' egységgel lép: 1,0 -> 0,1
+'Random Player' játékos 'talpas-3' egységgel lép: 2,5 -> 1,5
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos kifejlesztette 'lándzsa'-t.
+Játék szabályosan végetért: 2012.05.12 11:27:45
+7. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 1,5 -> 0,6
+'Random Player' játékos 'talpas-7' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 1,0
+'Random Player' játékos 'talpas-3' egységgel lép: 0,6 -> 0,7
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 2,1
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 3,0
+'Random Player' játékos 'talpas-4' egységgel lép: 0,1 -> 0,1
+'Random Player' játékos 'talpas-4' egységgel lép: 0,1 -> 0,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 13,0 -> 14,1
+Játék szabályosan végetért: 2012.05.12 11:27:45
+8. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-6' egységgel lép: 3,0 -> 3,0
+'Random Player' játékos 'talpas-7' egységgel lép: 1,0 -> 1,0
+'Random Player' játékos 'talpas-4' egységgel lép: 0,2 -> 1,3
+'Random Player' játékos 'talpas-6' egységgel lép: 3,0 -> 4,1
+'Random Player' játékos 'talpas-7' egységgel lép: 1,0 -> 2,1
+'Random Player' játékos 'talpas-3' egységgel lép: 0,7 -> 0,7
+'Random Player' játékos 'talpas-4' egységgel lép: 1,3 -> 2,2
+'Random Player' játékos 'talpas-3' egységgel lép: 0,7 -> 1,8
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:45
+9. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-6' egységgel lép: 4,1 -> 3,1
+'Random Player' játékos 'talpas-6' egységgel lép: 3,1 -> 2,1
+'Random Player' játékos 'talpas-4' egységgel lép: 2,2 -> 1,3
+'Random Player' játékos 'talpas-3' egységgel lép: 1,8 -> 2,9
+'Random Player' játékos 'talpas-7' egységgel lép: 2,1 -> 1,2
+'Random Player' játékos 'talpas-3' egységgel lép: 2,9 -> 2,9
+'Random Player' játékos 'talpas-7' egységgel lép: 1,2 -> 1,3
+'Random Player' játékos 'talpas-8' egységgel lép: 0,0 -> 1,0
+'Random Player' játékos 'talpas-8' egységgel lép: 1,0 -> 0,1
+'Random Player' játékos 'talpas-4' egységgel lép: 1,3 -> 1,4
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:45
+10. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-7' egységgel lép: 1,3 -> 2,4
+'Random Player' játékos 'talpas-4' egységgel lép: 1,4 -> 0,5
+'Random Player' játékos 'talpas-3' egységgel lép: 2,9 -> 1,10
+'Random Player' játékos 'talpas-7' egységgel lép: 2,4 -> 1,4
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 1,2
+'Random Player' játékos 'talpas-6' egységgel lép: 1,2 -> 0,2
+'Random Player' játékos 'talpas-3' egységgel lép: 1,10 -> 2,9
+'Random Player' játékos 'talpas-8' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos 'talpas-4' egységgel lép: 0,5 -> 0,4
+'Random Player' játékos 'talpas-8' egységgel lép: 0,2 -> 0,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:46
+11. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 2,9 -> 1,9
+'Random Player' játékos 'talpas-4' egységgel lép: 0,4 -> 0,4
+'Random Player' játékos 'talpas-7' egységgel lép: 1,4 -> 1,5
+'Random Player' játékos 'talpas-8' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos 'talpas-4' egységgel lép: 0,4 -> 1,3
+'Random Player' játékos 'talpas-6' egységgel lép: 0,2 -> 1,2
+'Random Player' játékos 'talpas-3' egységgel lép: 1,9 -> 0,9
+'Random Player' játékos 'talpas-8' egységgel lép: 0,2 -> 1,3
+'Random Player' játékos 'talpas-7' egységgel lép: 1,5 -> 0,4
+'Random Player' játékos 'talpas-6' egységgel lép: 1,2 -> 2,1
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 14,1 -> 13,2
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 13,2 -> 13,3
+'Sample Player 652' játékos új 'talpas'-t épített itt: 14,0.
+Játék szabályosan végetért: 2012.05.12 11:27:46
+12. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-8' egységgel lép: 1,3 -> 1,3
+'Random Player' játékos 'talpas-7' egységgel lép: 0,4 -> 1,3
+'Random Player' játékos 'talpas-9' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 3,2
+'Random Player' játékos 'talpas-9' egységgel lép: 0,1 -> 0,0
+'Random Player' játékos 'talpas-3' egységgel lép: 0,9 -> 0,8
+'Random Player' játékos 'talpas-4' egységgel lép: 1,3 -> 2,2
+'Random Player' játékos 'talpas-8' egységgel lép: 1,3 -> 1,4
+'Random Player' játékos 'talpas-3' egységgel lép: 0,8 -> 0,9
+'Random Player' játékos 'talpas-4' egységgel lép: 2,2 -> 3,2
+'Random Player' játékos 'talpas-7' egységgel lép: 1,3 -> 2,3
+'Random Player' játékos 'talpas-6' egységgel lép: 3,2 -> 4,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:47
+13. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 0,9 -> 1,9
+'Random Player' játékos 'talpas-3' egységgel lép: 1,9 -> 0,10
+'Random Player' játékos 'talpas-4' egységgel lép: 3,2 -> 2,3
+'Random Player' játékos 'talpas-4' egységgel lép: 2,3 -> 2,4
+'Random Player' játékos 'talpas-9' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-9' egységgel lép: 0,1 -> 0,1
+'Random Player' játékos 'talpas-6' egységgel lép: 4,2 -> 4,3
+'Random Player' játékos 'talpas-7' egységgel lép: 2,3 -> 1,2
+'Random Player' játékos 'talpas-8' egységgel lép: 1,4 -> 2,5
+'Random Player' játékos 'talpas-7' egységgel lép: 1,2 -> 0,1
+'Random Player' játékos 'talpas-8' egységgel lép: 2,5 -> 3,6
+'Random Player' játékos 'talpas-6' egységgel lép: 4,3 -> 3,2
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 13,3 -> 12,4
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 12,4 -> 12,4
+Játék szabályosan végetért: 2012.05.12 11:27:47
+14. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-6' egységgel lép: 3,2 -> 2,3
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 1,0
+'Random Player' játékos 'talpas-11' egységgel lép: 0,0 -> 1,0
+'Random Player' játékos 'talpas-4' egységgel lép: 2,4 -> 2,5
+'Random Player' játékos 'talpas-8' egységgel lép: 3,6 -> 4,5
+'Random Player' játékos 'talpas-9' egységgel lép: 0,1 -> 1,1
+'Random Player' játékos 'talpas-3' egységgel lép: 0,10 -> 0,10
+'Random Player' játékos 'talpas-7' egységgel lép: 1,0 -> 0,0
+'Random Player' játékos 'talpas-3' egységgel lép: 0,10 -> 0,11
+'Random Player' játékos 'talpas-9' egységgel lép: 1,1 -> 2,2
+'Random Player' játékos 'talpas-11' egységgel lép: 1,0 -> 1,1
+'Random Player' játékos 'talpas-6' egységgel lép: 2,3 -> 3,3
+'Random Player' játékos 'talpas-8' egységgel lép: 4,5 -> 4,6
+'Random Player' játékos 'talpas-4' egységgel lép: 2,5 -> 3,4
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos kifejlesztette 'lótenyésztés'-t.
+Játék szabályosan végetért: 2012.05.12 11:27:47
+15. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-7' egységgel lép: 0,0 -> 1,0
+'Random Player' játékos 'talpas-7' egységgel lép: 1,0 -> 0,0
+'Random Player' játékos 'talpas-8' egységgel lép: 4,6 -> 3,6
+'Random Player' játékos 'talpas-6' egységgel lép: 3,3 -> 2,4
+'Random Player' játékos 'talpas-8' egységgel lép: 3,6 -> 4,7
+'Random Player' játékos 'talpas-3' egységgel lép: 0,11 -> 1,10
+'Random Player' játékos 'talpas-4' egységgel lép: 3,4 -> 4,4
+'Random Player' játékos 'talpas-4' egységgel lép: 4,4 -> 3,4
+'Random Player' játékos 'talpas-6' egységgel lép: 2,4 -> 2,4
+'Random Player' játékos 'talpas-9' egységgel lép: 2,2 -> 3,3
+'Random Player' játékos 'talpas-11' egységgel lép: 1,1 -> 0,1
+'Random Player' játékos 'talpas-11' egységgel lép: 0,1 -> 1,0
+'Random Player' játékos 'talpas-9' egységgel lép: 3,3 -> 3,4
+'Random Player' játékos 'talpas-3' egységgel lép: 1,10 -> 0,11
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 14,0 -> 13,0
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 13,0 -> 12,0
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 12,4 -> 11,5
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 11,5 -> 11,5
+Játék szabályosan végetért: 2012.05.12 11:27:48
+16. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-8' egységgel lép: 4,7 -> 4,6
+'Random Player' játékos 'talpas-3' egységgel lép: 0,11 -> 0,10
+'Random Player' játékos 'talpas-9' egységgel lép: 3,4 -> 4,5
+'Random Player' játékos 'talpas-4' egységgel lép: 3,4 -> 2,3
+'Random Player' játékos 'talpas-6' egységgel lép: 2,4 -> 1,4
+'Random Player' játékos 'talpas-7' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-9' egységgel lép: 4,5 -> 3,5
+'Random Player' játékos 'talpas-6' egységgel lép: 1,4 -> 0,3
+'Random Player' játékos 'talpas-3' egységgel lép: 0,10 -> 0,11
+'Random Player' játékos 'talpas-8' egységgel lép: 4,6 -> 3,5
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos 'talpas-4' egységgel lép: 2,3 -> 3,4
+'Random Player' játékos 'talpas-11' egységgel lép: 1,0 -> 1,1
+'Random Player' játékos 'talpas-11' egységgel lép: 1,1 -> 0,0
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 12,0 -> 12,1
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 12,1 -> 11,0
+Játék szabályosan végetért: 2012.05.12 11:27:48
+17. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 3,4 -> 4,3
+'Random Player' játékos 'talpas-9' egységgel lép: 3,5 -> 4,5
+'Random Player' játékos 'talpas-4' egységgel lép: 4,3 -> 3,2
+'Random Player' játékos 'talpas-3' egységgel lép: 0,11 -> 1,11
+'Random Player' játékos 'talpas-8' egységgel lép: 3,5 -> 3,5
+'Random Player' játékos 'talpas-6' egységgel lép: 0,3 -> 1,3
+'Random Player' játékos 'talpas-9' egységgel lép: 4,5 -> 3,6
+'Random Player' játékos 'talpas-8' egységgel lép: 3,5 -> 4,6
+'Random Player' játékos 'talpas-12' egységgel lép: 0,0 -> 0,0
+'Random Player' játékos 'talpas-3' egységgel lép: 1,11 -> 0,12
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 0,3
+'Random Player' játékos 'talpas-7' egységgel lép: 0,3 -> 1,2
+'Random Player' játékos 'talpas-11' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-11' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos 'talpas-12' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-6' egységgel lép: 1,3 -> 2,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 11,5 -> 10,4
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 11,0 -> 11,0
+'Sample Player 652' játékos új 'talpas'-t épített itt: 14,0.
+Játék szabályosan végetért: 2012.05.12 11:27:49
+18. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-3' egységgel lép: 0,12 -> 0,11
+'Random Player' játékos 'talpas-6' egységgel lép: 2,2 -> 1,1
+'Random Player' játékos 'talpas-8' egységgel lép: 4,6 -> 5,6
+'Random Player' játékos 'talpas-3' egységgel lép: 0,11 -> 1,11
+'Random Player' játékos 'talpas-4' egységgel lép: 3,2 -> 2,1
+'Random Player' játékos 'talpas-12' egységgel lép: 1,1 -> 2,2
+'Random Player' játékos 'talpas-9' egységgel lép: 3,6 -> 3,6
+'Random Player' játékos 'talpas-8' egységgel lép: 5,6 -> 5,6
+'Random Player' játékos 'talpas-9' egységgel lép: 3,6 -> 4,7
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 1,1
+'Random Player' játékos 'talpas-4' egységgel lép: 2,1 -> 2,1
+'Random Player' játékos 'talpas-11' egységgel lép: 0,2 -> 1,1
+'Random Player' játékos 'talpas-7' egységgel lép: 1,2 -> 0,3
+'Random Player' játékos 'talpas-12' egységgel lép: 2,2 -> 3,1
+'Random Player' játékos 'talpas-11' egységgel lép: 1,1 -> 2,1
+'Random Player' játékos 'talpas-7' egységgel lép: 0,3 -> 0,3
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:49
+19. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-12' egységgel lép: 3,1 -> 3,1
+'Random Player' játékos 'talpas-12' egységgel lép: 3,1 -> 3,2
+'Random Player' játékos 'talpas-3' egységgel lép: 1,11 -> 1,11
+'Random Player' játékos 'talpas-9' egységgel lép: 4,7 -> 5,7
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 2,1
+'Random Player' játékos 'talpas-3' egységgel lép: 1,11 -> 0,10
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 1,2
+'Random Player' játékos 'talpas-4' egységgel lép: 2,1 -> 2,2
+'Random Player' játékos 'talpas-4' egységgel lép: 2,2 -> 3,2
+'Random Player' játékos 'talpas-9' egységgel lép: 5,7 -> 6,8
+'Random Player' játékos 'talpas-7' egységgel lép: 0,3 -> 0,2
+'Random Player' játékos 'talpas-11' egységgel lép: 2,1 -> 3,0
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 1,1
+'Random Player' játékos 'talpas-14' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-11' egységgel lép: 3,0 -> 3,1
+'Random Player' játékos 'talpas-8' egységgel lép: 5,6 -> 5,6
+'Random Player' játékos 'talpas-8' egységgel lép: 5,6 -> 5,5
+'Random Player' játékos 'talpas-14' egységgel lép: 0,1 -> 0,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:50
+20. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 3,2 -> 3,2
+'Random Player' játékos 'talpas-11' egységgel lép: 3,1 -> 2,2
+'Random Player' játékos 'talpas-8' egységgel lép: 5,5 -> 5,4
+'Random Player' játékos 'talpas-7' egységgel lép: 1,1 -> 2,0
+'Random Player' játékos 'talpas-12' egységgel lép: 3,2 -> 2,1
+'Random Player' játékos 'talpas-9' egységgel lép: 6,8 -> 5,8
+'Random Player' játékos 'talpas-7' egységgel lép: 2,0 -> 1,1
+'Random Player' játékos 'talpas-6' egységgel lép: 1,2 -> 2,3
+'Random Player' játékos 'talpas-6' egységgel lép: 2,3 -> 3,3
+'Random Player' játékos 'talpas-12' egységgel lép: 2,1 -> 3,2
+'Random Player' játékos 'talpas-4' egységgel lép: 3,2 -> 4,3
+'Random Player' játékos 'talpas-8' egységgel lép: 5,4 -> 6,5
+'Random Player' játékos 'talpas-9' egységgel lép: 5,8 -> 5,9
+'Random Player' játékos 'talpas-11' egységgel lép: 2,2 -> 2,2
+'Random Player' játékos 'talpas-14' egységgel lép: 0,2 -> 1,3
+'Random Player' játékos 'talpas-3' egységgel lép: 0,10 -> 1,11
+'Random Player' játékos 'talpas-14' egységgel lép: 1,3 -> 0,3
+'Random Player' játékos 'talpas-3' egységgel lép: 1,11 -> 0,11
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:51
+21. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-9' egységgel lép: 5,9 -> 5,10
+'Random Player' játékos 'talpas-4' egységgel lép: 4,3 -> 3,3
+'Random Player' játékos 'talpas-7' egységgel lép: 1,1 -> 0,1
+'Random Player' játékos 'talpas-3' egységgel lép: 0,11 -> 1,10
+'Random Player' játékos 'talpas-11' egységgel lép: 2,2 -> 3,1
+'Random Player' játékos 'talpas-3' egységgel lép: 1,10 -> 2,10
+'Random Player' játékos 'talpas-4' egységgel lép: 3,3 -> 3,3
+'Random Player' játékos 'talpas-12' egységgel lép: 3,2 -> 4,3
+'Random Player' játékos 'talpas-8' egységgel lép: 6,5 -> 6,6
+'Random Player' játékos 'talpas-12' egységgel lép: 4,3 -> 3,3
+'Random Player' játékos 'talpas-11' egységgel lép: 3,1 -> 3,1
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 1,1
+'Random Player' játékos 'talpas-14' egységgel lép: 0,3 -> 1,3
+'Random Player' játékos 'talpas-8' egységgel lép: 6,6 -> 6,5
+'Random Player' játékos 'talpas-6' egységgel lép: 3,3 -> 4,2
+'Random Player' játékos 'talpas-9' egységgel lép: 5,10 -> 6,9
+'Random Player' játékos 'talpas-14' egységgel lép: 1,3 -> 2,4
+'Random Player' játékos 'talpas-6' egységgel lép: 4,2 -> 5,3
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:51
+22. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-15' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-15' egységgel lép: 0,1 -> 0,0
+'Random Player' játékos 'talpas-6' egységgel lép: 5,3 -> 5,3
+'Random Player' játékos 'talpas-9' egységgel lép: 6,9 -> 6,10
+'Random Player' játékos 'talpas-8' egységgel lép: 6,5 -> 7,4
+'Random Player' játékos 'talpas-8' egységgel lép: 7,4 -> 8,5
+'Random Player' játékos 'talpas-14' egységgel lép: 2,4 -> 1,4
+'Random Player' játékos 'talpas-11' egységgel lép: 3,1 -> 4,1
+'Random Player' játékos 'talpas-4' egységgel lép: 3,3 -> 2,2
+'Random Player' játékos 'talpas-11' egységgel lép: 4,1 -> 4,1
+'Random Player' játékos 'talpas-12' egységgel lép: 3,3 -> 2,3
+'Random Player' játékos 'talpas-3' egységgel lép: 2,10 -> 3,9
+'Random Player' játékos 'talpas-12' egységgel lép: 2,3 -> 3,2
+'Random Player' játékos 'talpas-9' egységgel lép: 6,10 -> 7,10
+'Random Player' játékos 'talpas-4' egységgel lép: 2,2 -> 3,2
+'Random Player' játékos 'talpas-14' egységgel lép: 1,4 -> 1,3
+'Random Player' játékos 'talpas-3' egységgel lép: 3,9 -> 4,10
+'Random Player' játékos 'talpas-7' egységgel lép: 1,1 -> 2,2
+'Random Player' játékos 'talpas-7' egységgel lép: 2,2 -> 3,3
+'Random Player' játékos 'talpas-6' egységgel lép: 5,3 -> 5,2
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 10,4 -> 10,4
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 10,4 -> 9,4
+'Sample Player 652' játékos kifejlesztette 'cölöpkerítés'-t.
+Játék szabályosan végetért: 2012.05.12 11:27:52
+23. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-15' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-14' egységgel lép: 1,3 -> 0,2
+'Random Player' játékos 'talpas-6' egységgel lép: 5,2 -> 4,2
+'Random Player' játékos 'talpas-14' egységgel lép: 0,2 -> 1,1
+'Random Player' játékos 'talpas-15' egységgel lép: 0,1 -> 1,2
+'Random Player' játékos 'talpas-6' egységgel lép: 4,2 -> 5,2
+'Random Player' játékos 'talpas-4' egységgel lép: 3,2 -> 4,1
+'Random Player' játékos 'talpas-4' egységgel lép: 4,1 -> 4,0
+'Random Player' játékos 'talpas-11' egységgel lép: 4,1 -> 5,2
+'Random Player' játékos 'talpas-11' egységgel lép: 5,2 -> 5,2
+'Random Player' játékos 'talpas-7' egységgel lép: 3,3 -> 2,2
+'Random Player' játékos 'talpas-8' egységgel lép: 8,5 -> 8,5
+'Random Player' játékos 'talpas-3' egységgel lép: 4,10 -> 4,9
+'Random Player' játékos 'talpas-9' egységgel lép: 7,10 -> 7,11
+'Random Player' játékos 'talpas-8' egységgel lép: 8,5 -> 8,5
+'Random Player' játékos 'talpas-7' egységgel lép: 2,2 -> 2,1
+'Random Player' játékos 'talpas-3' egységgel lép: 4,9 -> 3,9
+'Random Player' játékos 'talpas-9' egységgel lép: 7,11 -> 6,11
+'Random Player' játékos 'talpas-12' egységgel lép: 3,2 -> 3,3
+'Random Player' játékos 'talpas-12' egységgel lép: 3,3 -> 4,2
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:52
+24. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-16' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-11' egységgel lép: 5,2 -> 6,1
+'Random Player' játékos 'talpas-12' egységgel lép: 4,2 -> 3,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,9 -> 3,8
+'Random Player' játékos 'talpas-15' egységgel lép: 1,2 -> 0,3
+'Random Player' játékos 'talpas-6' egységgel lép: 5,2 -> 4,1
+'Random Player' játékos 'talpas-11' egységgel lép: 6,1 -> 5,0
+'Random Player' játékos 'talpas-14' egységgel lép: 1,1 -> 1,0
+'Random Player' játékos 'talpas-9' egységgel lép: 6,11 -> 6,10
+'Random Player' játékos 'talpas-12' egységgel lép: 3,1 -> 3,2
+'Random Player' játékos 'talpas-14' egységgel lép: 1,0 -> 1,0
+'Random Player' játékos 'talpas-7' egységgel lép: 2,1 -> 3,2
+'Random Player' játékos 'talpas-6' egységgel lép: 4,1 -> 4,1
+'Random Player' játékos 'talpas-8' egységgel lép: 8,5 -> 9,4
+egység csatát vesztett 'Sample Player 652' játékos 'talpas-5' egysége ellen
+'Random Player' játékos 'talpas-15' egységgel lép: 0,3 -> 0,3
+'Random Player' játékos 'talpas-7' egységgel lép: 3,2 -> 2,1
+'Random Player' játékos 'talpas-9' egységgel lép: 6,10 -> 6,11
+'Random Player' játékos 'talpas-4' egységgel lép: 4,0 -> 4,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,8 -> 2,7
+'Random Player' játékos 'talpas-16' egységgel lép: 1,1 -> 2,0
+'Random Player' játékos 'talpas-4' egységgel lép: 4,1 -> 5,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-10' egységgel lép: 11,0 -> 12,0
+'Sample Player 652' játékos új 'talpas'-t épített itt: 14,0.
+Játék szabályosan végetért: 2012.05.12 11:27:53
+25. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-16' egységgel lép: 2,0 -> 1,1
+'Random Player' játékos 'talpas-6' egységgel lép: 4,1 -> 5,1
+'Random Player' játékos 'talpas-15' egységgel lép: 0,3 -> 1,3
+'Random Player' játékos 'talpas-12' egységgel lép: 3,2 -> 4,1
+'Random Player' játékos 'talpas-15' egységgel lép: 1,3 -> 2,2
+'Random Player' játékos 'talpas-11' egységgel lép: 5,0 -> 5,0
+'Random Player' játékos 'talpas-14' egységgel lép: 1,0 -> 2,1
+'Random Player' játékos 'talpas-14' egységgel lép: 2,1 -> 1,0
+'Random Player' játékos 'talpas-12' egységgel lép: 4,1 -> 3,2
+'Random Player' játékos 'talpas-11' egységgel lép: 5,0 -> 4,0
+'Random Player' játékos 'talpas-3' egységgel lép: 2,7 -> 3,8
+'Random Player' játékos 'talpas-6' egységgel lép: 5,1 -> 4,0
+'Random Player' játékos 'talpas-3' egységgel lép: 3,8 -> 3,7
+'Random Player' játékos 'talpas-4' egységgel lép: 5,1 -> 6,1
+'Random Player' játékos 'talpas-16' egységgel lép: 1,1 -> 1,1
+'Random Player' játékos 'talpas-9' egységgel lép: 6,11 -> 5,10
+'Random Player' játékos 'talpas-9' egységgel lép: 5,10 -> 6,10
+'Random Player' játékos 'talpas-4' egységgel lép: 6,1 -> 5,0
+'Random Player' játékos 'talpas-7' egységgel lép: 2,1 -> 1,0
+'Random Player' játékos 'talpas-7' egységgel lép: 1,0 -> 0,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:54
+26. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-4' egységgel lép: 5,0 -> 5,0
+'Random Player' játékos 'talpas-9' egységgel lép: 6,10 -> 5,9
+'Random Player' játékos 'talpas-12' egységgel lép: 3,2 -> 3,3
+'Random Player' játékos 'talpas-14' egységgel lép: 1,0 -> 0,1
+'Random Player' játékos 'talpas-14' egységgel lép: 0,1 -> 0,0
+'Random Player' játékos 'talpas-12' egységgel lép: 3,3 -> 4,4
+'Random Player' játékos 'talpas-11' egységgel lép: 4,0 -> 5,1
+'Random Player' játékos 'talpas-11' egységgel lép: 5,1 -> 6,1
+'Random Player' játékos 'talpas-16' egységgel lép: 1,1 -> 1,2
+'Random Player' játékos 'talpas-4' egységgel lép: 5,0 -> 6,1
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 0,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,7 -> 4,6
+'Random Player' játékos 'talpas-9' egységgel lép: 5,9 -> 4,8
+'Random Player' játékos 'talpas-16' egységgel lép: 1,2 -> 0,3
+'Random Player' játékos 'talpas-15' egységgel lép: 2,2 -> 3,2
+'Random Player' játékos 'talpas-15' egységgel lép: 3,2 -> 4,2
+'Random Player' játékos 'talpas-6' egységgel lép: 4,0 -> 3,0
+'Random Player' játékos 'talpas-3' egységgel lép: 4,6 -> 3,5
+'Random Player' játékos 'talpas-6' egységgel lép: 3,0 -> 2,1
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:54
+27. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-11' egységgel lép: 6,1 -> 5,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,5 -> 3,6
+'Random Player' játékos 'talpas-11' egységgel lép: 5,1 -> 5,1
+'Random Player' játékos 'talpas-3' egységgel lép: 3,6 -> 2,6
+'Random Player' játékos 'talpas-4' egységgel lép: 6,1 -> 5,0
+'Random Player' játékos 'talpas-9' egységgel lép: 4,8 -> 5,9
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 1,2
+'Random Player' játékos 'talpas-15' egységgel lép: 4,2 -> 5,1
+'Random Player' játékos 'talpas-14' egységgel lép: 0,0 -> 0,0
+'Random Player' játékos 'talpas-12' egységgel lép: 4,4 -> 5,4
+'Random Player' játékos 'talpas-12' egységgel lép: 5,4 -> 6,4
+'Random Player' játékos 'talpas-18' egységgel lép: 0,0 -> 0,1
+'Random Player' játékos 'talpas-18' egységgel lép: 0,1 -> 1,0
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 3,2
+'Random Player' játékos 'talpas-15' egységgel lép: 5,1 -> 6,0
+'Random Player' játékos 'talpas-9' egységgel lép: 5,9 -> 4,10
+'Random Player' játékos 'talpas-16' egységgel lép: 0,3 -> 0,2
+'Random Player' játékos 'talpas-6' egységgel lép: 3,2 -> 2,1
+'Random Player' játékos 'talpas-14' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-16' egységgel lép: 0,2 -> 1,3
+'Random Player' játékos 'talpas-4' egységgel lép: 5,0 -> 6,1
+'Random Player' játékos 'talpas-7' egységgel lép: 1,2 -> 0,1
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+Játék szabályosan végetért: 2012.05.12 11:27:55
+28. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-12' egységgel lép: 6,4 -> 5,4
+'Random Player' játékos 'talpas-3' egységgel lép: 2,6 -> 1,6
+'Random Player' játékos 'talpas-6' egységgel lép: 2,1 -> 1,1
+'Random Player' játékos 'talpas-11' egységgel lép: 5,1 -> 4,0
+'Random Player' játékos 'talpas-9' egységgel lép: 4,10 -> 5,10
+'Random Player' játékos 'talpas-12' egységgel lép: 5,4 -> 4,5
+'Random Player' játékos 'talpas-16' egységgel lép: 1,3 -> 1,4
+'Random Player' játékos 'talpas-15' egységgel lép: 6,0 -> 6,0
+'Random Player' játékos 'talpas-7' egységgel lép: 0,1 -> 0,2
+'Random Player' játékos 'talpas-6' egységgel lép: 1,1 -> 0,2
+'Random Player' játékos 'talpas-14' egységgel lép: 1,1 -> 0,2
+'Random Player' játékos 'talpas-4' egységgel lép: 6,1 -> 5,0
+'Random Player' játékos 'talpas-11' egységgel lép: 4,0 -> 4,1
+'Random Player' játékos 'talpas-3' egységgel lép: 1,6 -> 1,7
+'Random Player' játékos 'talpas-15' egységgel lép: 6,0 -> 7,0
+'Random Player' játékos 'talpas-18' egységgel lép: 1,0 -> 0,0
+'Random Player' játékos 'talpas-18' egységgel lép: 0,0 -> 1,1
+'Random Player' játékos 'talpas-9' egységgel lép: 5,10 -> 5,9
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 0,2
+'Random Player' játékos 'talpas-4' egységgel lép: 5,0 -> 6,0
+'Random Player' játékos 'talpas-14' egységgel lép: 0,2 -> 0,3
+'Random Player' játékos 'talpas-16' egységgel lép: 1,4 -> 1,5
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos 'talpas-5' egységgel lép: 9,4 -> 10,5
+Játék szabályosan végetért: 2012.05.12 11:27:55
+29. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-19' egységgel lép: 0,0 -> 1,0
+'Random Player' játékos 'talpas-18' egységgel lép: 1,1 -> 2,2
+'Random Player' játékos 'talpas-9' egységgel lép: 5,9 -> 6,8
+'Random Player' játékos 'talpas-6' egységgel lép: 0,2 -> 1,2
+'Random Player' játékos 'talpas-3' egységgel lép: 1,7 -> 1,8
+'Random Player' játékos 'talpas-9' egységgel lép: 6,8 -> 7,7
+'Random Player' játékos 'talpas-11' egységgel lép: 4,1 -> 3,2
+'Random Player' játékos 'talpas-3' egységgel lép: 1,8 -> 0,7
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 0,2
+'Random Player' játékos 'talpas-15' egységgel lép: 7,0 -> 7,1
+'Random Player' játékos 'talpas-18' egységgel lép: 2,2 -> 2,3
+'Random Player' játékos 'talpas-14' egységgel lép: 0,3 -> 1,4
+'Random Player' játékos 'talpas-7' egységgel lép: 0,2 -> 1,1
+'Random Player' játékos 'talpas-16' egységgel lép: 1,5 -> 0,4
+'Random Player' játékos 'talpas-14' egységgel lép: 1,4 -> 2,5
+'Random Player' játékos 'talpas-15' egységgel lép: 7,1 -> 8,1
+'Random Player' játékos 'talpas-11' egységgel lép: 3,2 -> 3,3
+'Random Player' játékos 'talpas-16' egységgel lép: 0,4 -> 0,4
+'Random Player' játékos 'talpas-6' egységgel lép: 1,2 -> 0,2
+'Random Player' játékos 'talpas-19' egységgel lép: 1,0 -> 0,1
+'Random Player' játékos 'talpas-4' egységgel lép: 6,0 -> 6,1
+'Random Player' játékos 'talpas-4' egységgel lép: 6,1 -> 7,0
+'Random Player' játékos 'talpas-12' egységgel lép: 4,5 -> 3,5
+'Random Player' játékos 'talpas-12' egységgel lép: 3,5 -> 4,6
+'Adogatós Albatrosz' következik.
+HIBA: A(z) 'Adogatós Albatrosz' játékos már korábban kifejlesztette a(z) 'famegmunkálás' fejlesztést, ezért azt nem lehet mégegyszer megvásárolni.
+'Sample Player 652' következik.
+'Sample Player 652' játékos kifejlesztette 'írás'-t.
+Játék szabályosan végetért: 2012.05.12 11:27:56
+30. kör
+'Random Player' következik.
+'Random Player' játékos 'talpas-19' egységgel lép: 0,1 -> 0,0
+'Random Player' játékos 'talpas-11' egységgel lép: 3,3 -> 2,4
+'Random Player' játékos 'talpas-6' egységgel lép: 0,2 -> 0,3
+'Random Player' játékos 'talpas-15' egységgel lép: 8,1 -> 9,1
+'Random Player' játékos 'talpas-7' egységgel lép: 1,1 -> 0,0
+'Random Player' játékos 'talpas-19' egységgel lép: 0,0 -> 0,0
+'Random Player' játékos 'talpas-16' egységgel lép: 0,4 -> 1,3
+'Random Player' játékos 'talpas-9' egységgel lép: 7,7 -> 8,7
+'Random Player' játékos 'talpas-4' egységgel lép: 7,0 -> 7,1
+Játék manuálisan leállítva: 2012.05.12 11:27:56
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   at System.Linq.Buffer`1.ToArray()
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at f.b(a A_0)
+   at System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at f.b()
+   at f.e()

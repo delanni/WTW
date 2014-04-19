@@ -1,0 +1,8 @@
+Játékosok betöltése a 'c:\projektek\WTW\2012\civsharp-indulokeszlet-8\játékvezérlï\Players' mappából
+'Adogatós Albatrosz' játékos betöltve.
+'Random Player' játékos betöltve.
+'Sample Player 486' játékos betöltve.
+Játék elindult: 2012.05.12 10:29:42
+1. kör
+'Random Player' következik.
+'Random Player' játékos új 'talpas'-t épített itt: 0,0.
