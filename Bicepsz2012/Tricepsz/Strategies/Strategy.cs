@@ -29,12 +29,12 @@ namespace Tricepsz.Strategies
 
         public void UpdateObjectives()
         {
-            throw new NotImplementedException();
+            
         }
 
         public void MinorUpdateObjectives()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }

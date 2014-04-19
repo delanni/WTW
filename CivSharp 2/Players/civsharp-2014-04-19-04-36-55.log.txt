@@ -15,3 +15,4 @@ HIBA '513': Nem lehet meghívni az ActionResult()-ot a 'Johnny Bravo II.' játé
    at Tricepsz.TricepszPlayer.ActionResult(WorldInfo world)
    at CivSharpGame.GameController.KickOffPlayer(Boolean finalKickOff, GamePlayer player, String errorMessage)
 2. kör
+Játék manuálisan leállítva: 2014.04.19 04:45:42

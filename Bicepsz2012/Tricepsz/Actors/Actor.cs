@@ -34,22 +34,22 @@ namespace Tricepsz.Actors
 
         internal MovementData PopNextMovementOrder()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         internal ResearchData PopNextResearchOrder()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         internal BuildingData PopNextBuildingOrder()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         internal TrainingData PopNextTrainingOrder()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         internal void MinorUpdateObjectives()
