@@ -1,0 +1,287 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.19 09:09:21
+1. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+2. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+3. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+4. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+5. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+6. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+7. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+8. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+9. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+10. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+11. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+12. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+13. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+14. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+15. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+16. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+17. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+18. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+19. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+20. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+21. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+22. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+23. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+24. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+25. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+26. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+27. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+28. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+29. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+30. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+31. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+32. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+33. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+34. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+35. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+36. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+37. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+38. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+39. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+40. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+41. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+42. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+43. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+44. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+45. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+46. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+47. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+48. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+49. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+50. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+51. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+52. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+53. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+54. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+55. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+56. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+57. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+58. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+59. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+60. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+61. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+62. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+63. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+64. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+65. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+66. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+67. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+68. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+69. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+70. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+71. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+72. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+73. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+74. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+75. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+76. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+77. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+78. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+79. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+80. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+81. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+82. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+83. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+84. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+85. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+86. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+87. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+88. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+89. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+90. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+91. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+92. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+93. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+94. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.

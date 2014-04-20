@@ -95,6 +95,30 @@ namespace Tricepsz.Knowledge
                     break;
             }
         }
+
+        internal static string NameFromType(UnitType type)
+        {
+            switch (type)
+            {
+                case UnitType.SCOUT:
+                    return "felderítő";
+                    break;
+                case UnitType.GUARD:
+                    return "őrző";
+                    break;
+                case UnitType.KNIGHT:
+                    return "lovag";
+                    break;
+                case UnitType.CHAMPION:
+                    return "vívó tanonc";
+                    break;
+                case UnitType.KNIGHTCHAMPION:
+                    return "vívó mester";
+                    break;
+                default:
+                    return "felderítő";
+            }
+        }
     }
 
     public enum UnitType

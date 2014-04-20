@@ -48,7 +48,11 @@ namespace Tricepsz.Actors
 
         internal TrainingData PopNextTrainingOrder()
         {
-            return null;
+            var nextOrder = Strategy.Orders.FirstOrDefault(x => x.CanExecute(OrderType.UNITBUY));
+            if (nextOrder == null) return null;
+            var order = (TrainingData)nextOrder.Execute<TrainingData>();
+            Strategy.Orders.Remove(nextOrder);
+            return order;
         }
 
         internal void MinorUpdateObjectives()
