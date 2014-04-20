@@ -1,0 +1,17 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.20 04:15:20
+1. kör
+'Johnny Bravo II.' következik.
+HIBA '500': System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricepsz.Strategies.RushStrategy.<.ctor>b__2(List`1 orderList)
+   at Tricepsz.Strategies.Objective.Execute()
+   at Tricepsz.Strategies.RushStrategy.UpdateObjectives()
+   at Tricepsz.Actors.Actor.UpdateObjectives()
+   at Tricepsz.TricepszPlayer.RefreshWorldInfo(Int32 turn, WorldInfo world)
+   at CivSharpGame.GameController.RunGame()
+'Johnny Bravo2' következik.
+2. kör
+1. helyezett: 'Johnny Bravo2'. Túlélt: True. Kredit: 225. Körök száma: 1. Átlagos futási idő: 428,0441 ms. Max. futási idő: 428,0441 ms.
+Játék manuálisan leállítva: 2014.04.20 04:19:12

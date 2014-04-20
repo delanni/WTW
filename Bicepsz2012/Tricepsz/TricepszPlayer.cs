@@ -17,7 +17,7 @@ namespace Tricepsz
         Debugger d;
         public TricepszPlayer()
         {
-            ai = new Actor("Johnny Bravo II.", "civ1", new Strategy());
+            ai = new Actor("Johnny Bravo II.", "civ1", new RushStrategy());
             d = new Debugger();
             d.Show();
         }

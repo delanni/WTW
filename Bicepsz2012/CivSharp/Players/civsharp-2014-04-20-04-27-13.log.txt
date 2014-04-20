@@ -1,0 +1,74 @@
+Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\Bicepsz2012\CivSharp\Players' mappából
+'Johnny Bravo II.' játékos betöltve.
+'Johnny Bravo2' játékos betöltve.
+Játék elindult: 2014.04.20 04:27:13
+1. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+2. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+3. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+4. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+5. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+'Johnny Bravo II.' játékos új 'felderítő'-t épített itt: 0,19.
+6. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+7. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+8. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+9. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+10. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+11. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+12. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+13. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+14. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+15. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+16. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+17. kör
+'Johnny Bravo2' következik.
+'Johnny Bravo II.' következik.
+HIBA: Johnny Bravo II. játékos 'felderítő'-t szeretne vásárolni, de ezzel átlépné a megengedett egységszámlimitet.
+18. kör
+'Johnny Bravo2' következik.

@@ -8,6 +8,8 @@ namespace Tricepsz.Knowledge
 {
     public class Unit
     {
+        public static Unit SCOUT = new Unit(UnitType.SCOUT);
+
         private UnitType _type;
         public UnitType Type
         {
@@ -46,7 +48,35 @@ namespace Tricepsz.Knowledge
         public int MovementPoints { get; set; }
         public string Owner { get; set; }
         public string UnitId { get; set; }
-        public string UnitTypeName { get; set; }
+        private string _unitTypeName;
+        public string UnitTypeName { get {
+            return _unitTypeName;
+        }
+            set {
+                _unitTypeName = value;
+                switch (value)
+                {
+                    case "felderítő":
+                        Type = UnitType.SCOUT;
+                        break;
+                    case "őrző":
+                        Type = UnitType.GUARD;
+                        break;
+                    case "lovag":
+                        Type = UnitType.KNIGHT;
+                        break;
+                    case "vívó tanonc":
+                        Type = UnitType.CHAMPION ;
+                        break;
+                    case "vívó mester":
+                        Type = UnitType.KNIGHTCHAMPION;
+                        break;
+                    default:
+                        Type = UnitType.SCOUT;
+                        break;
+                }
+            }
+        }
         internal Position Position { get; set; }
         public int ATK { get; set; }
         public int DEF { get; set; }
@@ -65,9 +95,14 @@ namespace Tricepsz.Knowledge
             this.HitPoints = x.HitPoints;
         }
 
+        public Unit(UnitType unitType)
+        {
+            this.Type = unitType;
+        }
+
         private void _setStats(int cost, int dmg, int hp, int atk, int def, int spd, Research dep, UnitType type)
         {
-            this.Type = type;
+            this._type = type;
             this.COST = cost;
             this.DMG = dmg;
             this.HP = hp;
@@ -79,19 +114,19 @@ namespace Tricepsz.Knowledge
             switch (type)
             {
                 case UnitType.SCOUT:
-                    this.UnitTypeName = "felderítő";
+                    this._unitTypeName = "felderítő";
                     break;
                 case UnitType.GUARD:
-                    this.UnitTypeName = "őrző";
+                    this._unitTypeName = "őrző";
                     break;
                 case UnitType.KNIGHT:
-                    this.UnitTypeName = "lovag";
+                    this._unitTypeName = "lovag";
                     break;
                 case UnitType.CHAMPION:
-                    this.UnitTypeName = "vívó tanonc";
+                    this._unitTypeName = "vívó tanonc";
                     break;
                 case UnitType.KNIGHTCHAMPION:
-                    this.UnitTypeName = "vívó mester";
+                    this._unitTypeName = "vívó mester";
                     break;
             }
         }

@@ -10,11 +10,40 @@ using Tricepsz.Knowledge;
 
 namespace Tricepsz.Strategies
 {
-    public class Strategy
+    public class RushStrategy : Tricepsz.Strategies.IStrategy
     {
-        public List<Objective> Objectives;
-        public List<Order> Orders;
-        public Actor Actor;
+        public List<Objective> Objectives { get; set; }
+        public List<Order> Orders {get; set; }
+        public Actor Actor { get; set; }
+
+        private Objective buildInifiteScouts;
+
+        public RushStrategy()
+        {
+            buildInifiteScouts = new Objective()
+                {
+                    Name = "Build infinite scouts",
+                    Operation = (orderList) =>
+                        {
+                            if (Actor.Map.Units.Count(x => x.Type == Knowledge.UnitType.SCOUT)>200) return true;
+                            else
+                            {
+                                var firstTown = Actor.Map.Cities.First(x => x.Owner == Actor.Name);
+
+                                var order = new TrainingData()
+                                {
+                                    PositionX = firstTown.PositionX,
+                                    PositionY = firstTown.PositionY,
+                                    UnitTypeName = Unit.NameFromType(UnitType.SCOUT)
+                                };
+                                if (Actor.Player.Money > Unit.SCOUT.COST)
+                                orderList.Add(new Order(order, OrderType.UNITBUY));
+                                return false;
+                            }
+
+                        }
+                };
+        }
 
         public void SetGoal()
         {
@@ -30,26 +59,7 @@ namespace Tricepsz.Strategies
                     }
                 });
 
-                Objectives.Add(new Objective()
-                {
-                    Name = "Build a scout",
-                    Operation = (orderList) =>
-                        {
-                            if (Actor.Map.Units.Any(x => x.Type == Knowledge.UnitType.SCOUT)) return true;
-                            else
-                            {
-                                var firstTown = Actor.Map.Cities.First(x=>x.Owner == Actor.Name);
-                                var order = new TrainingData(){
-                                    PositionX = firstTown.PositionX,
-                                    PositionY = firstTown.PositionY,
-                                    UnitTypeName = Unit.NameFromType(UnitType.SCOUT)
-                                };
-                                orderList.Add(new Order(order, OrderType.UNITBUY));
-                                return false;
-                            }
-
-                        }
-                });
+                Objectives.Add(buildInifiteScouts);
                 
             }
         }
