@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AkhilleszPlayer.cs" />
     <Compile Include="Governor.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Research.cs" />
     <Compile Include="Tasks.cs" />

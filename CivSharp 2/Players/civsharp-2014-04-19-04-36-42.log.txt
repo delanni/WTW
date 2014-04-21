@@ -1,5 +1,0 @@
-Játékosok betöltése a 'c:\Users\Alex\Documents\GitHub\WTW\CivSharp 2\Players' mappából
-'Adogatós JOHNY' játékos betöltve.
-'Adogatós Albatrosz' játékos betöltve.
-'Johnny Bravo II.' játékos betöltve.
-HIBA: Legfejlebb 2 játékos lehet a Players mappában, de jelenleg 3-t találtam.

@@ -26,6 +26,17 @@ namespace Akhillesz
 
     class AttackCity : ITask
     {
+        private static readonly int[][] EIGHT_WAY = new int[][] {
+            new int[] { -1, -1 }, 
+            new int[] { 0, -1 }, 
+            new int[] { 1, -1 }, 
+            new int[] { 1, 0 } ,
+            new int[] { 1, 1 } ,
+            new int[] { 0, 1 } ,
+            new int[] { -1, 1 } ,
+            new int[] { -1, 0 } ,
+        };
+
         private UnitInfo _unit;
         private CityInfo _whichCity;
         private UnitProperties _unitProps;
@@ -41,14 +52,48 @@ namespace Akhillesz
         {
             if ((_whichCity.PositionX != _unit.PositionX || _whichCity.PositionY != _unit.PositionY))
             {
+                List<Point> candidates = new List<Point>();
+
+                for (int i = 0; i < EIGHT_WAY.Length; i++)
+                {
+                    int cX = _unit.PositionX + EIGHT_WAY[i][0];
+                    int cY = _unit.PositionY + EIGHT_WAY[i][1];
+
+                    if ( cX >= 0 && cY >= 0 && cX < 20 && cY < 20 && !currentWorld.Units.Any(m => m.Owner != _unit.Owner && m.PositionX == cX && m.PositionY == cY))
+                    {
+                        candidates.Add(new Point { X = cX, Y = cY });
+                    }                    
+                }
+
+                Point to;                
+
+                if (candidates.Count == 0)
+                {
+                    to = new Point { 
+                        X = _unit.PositionX + Math.Sign(_whichCity.PositionX - _unit.PositionX),
+                        Y = _unit.PositionY + Math.Sign(_whichCity.PositionY - _unit.PositionY)
+                    };                    
+                } else {
+                    to = candidates.First();
+
+                    foreach ( Point p in candidates ) {
+                        if (p.DistanceFrom(_whichCity.PositionX, _whichCity.PositionY) < to.DistanceFrom(_whichCity.PositionX, _whichCity.PositionY))
+                        {
+                            to = p;
+                        }
+                    }
+
+                }
+
                 intf.AddMovement(new MovementData
                 {
                     UnitID = _unit.UnitID,
+
                     FromX = _unit.PositionX,
                     FromY = _unit.PositionY,
 
-                    ToX = _unit.PositionX + Math.Sign(_whichCity.PositionX - _unit.PositionX),
-                    ToY = _unit.PositionY + Math.Sign(_whichCity.PositionY - _unit.PositionY)
+                    ToX = to.X,
+                    ToY = to.Y
                 });
             }
         }

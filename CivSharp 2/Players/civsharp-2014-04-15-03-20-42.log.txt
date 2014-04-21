@@ -1,8 +1,0 @@
-Játékosok betöltése a 'd:\Tananyag\MSC III\WTW\CivSharp 2\Players' mappából
-HIBA '997' a játékosok betöltése közben:
-System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
-   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
-   at System.Reflection.RuntimeModule.GetTypes()
-   at System.Reflection.Assembly.GetTypes()
-   at CivSharpGame.MainForm.LoadPlayers() in c:\Users\a-balkov\Desktop\civSharp Battlegrounds\CivSharpGame\Megjelenítés\MainForm.cs:line 168
-   at CivSharpGame.MainForm.btnNewGame_Click(Object sender, EventArgs e) in c:\Users\a-balkov\Desktop\civSharp Battlegrounds\CivSharpGame\Megjelenítés\MainForm.cs:line 473
