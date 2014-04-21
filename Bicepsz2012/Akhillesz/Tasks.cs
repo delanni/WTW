@@ -222,6 +222,8 @@ namespace Akhillesz
         {
             // nincs figyelembe véve hogy egy körben mennyit léphetünk
 
+            if (unit.UnitTypeName.Equals("őrző")) return null;
+
             List<ITask> feasibleTasks = new List<ITask>();            
 
             // lehet feltételes is, ha nincs egy bizonyos távolságon belül az ellenfél akkor nem törődik vele
@@ -242,8 +244,8 @@ namespace Akhillesz
             {
                 for (int y = 0; y < 20; y++)
                 {
-                    if (!world.Cities.Any(m => m.PositionX == x && m.PositionY == y) ||
-                        !world.Units.Any(m => m.PositionX == x && m.PositionY == y))
+                    if (!world.Cities.Any(m => m.PositionX == x && m.PositionY == y && m.Owner != player.Name) ||
+                        !world.Units.Any(m => m.PositionX == x && m.PositionY == y && m.Owner != player.Name))
                     {
                         feasibleTasks.Add(new BuildingTask(unit, x, y));
                     }                    

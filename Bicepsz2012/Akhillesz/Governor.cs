@@ -16,6 +16,8 @@ namespace Akhillesz
 
         private string _playerName;
 
+        private bool towerResearched = false;
+
         public Governor(string playerName)
         {            
             _playerName = playerName;
@@ -45,22 +47,45 @@ namespace Akhillesz
                 }                
             }
 
-            if (myUnits.Count < 5)
+            if (myUnits.Count < 4)
             {
                 CityInfo firstCity = _currentWorld.Cities.First(m => m.Owner.Equals(_playerName));
 
                 UnitProperties fodder = Units.Types.First(u => u.Name.Equals("felderítő"));
 
-                if (_me.Money > fodder.Cost)
+                if (_me.Money >= fodder.Cost)
                 {
                     _commandBag.AddTrain(new TrainingData { PositionX = firstCity.PositionX, PositionY = firstCity.PositionY, UnitTypeName = fodder.Name } );
                 }                
-            }            
+            } else if (myUnits.Count == 4)
+            {
+                CityInfo firstCity = _currentWorld.Cities.First(m => m.Owner.Equals(_playerName));
+
+                if (_me.Researched.Contains("őrzők tornya"))
+                {
+                    UnitProperties guardian = Units.Types.First(u => u.Name.Equals("őrző"));
+
+                    if (_me.Money >= guardian.Cost)
+                    {
+                        _commandBag.AddTrain(new TrainingData { PositionX = firstCity.PositionX, PositionY = firstCity.PositionY, UnitTypeName = guardian.Name });
+                    }
+                }
+                else
+                {
+                    Research research = AvailableResearch.Choices.First(r => r.Name.Equals("őrzők tornya"));
+
+                    if (_me.Money >= research.Cost)
+                    {
+                        _commandBag.AddResearch(new ResearchData { WhatToResearch = research.Name });                        
+                    }
+                }
+            }
         }
 
         internal ResearchData DecideResearch()
         {
-            return _commandBag.PopResearch();
+            ResearchData r = _commandBag.PopResearch();
+            return r;
         }
 
         internal TrainingData DecideTrain()

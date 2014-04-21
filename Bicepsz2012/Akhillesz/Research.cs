@@ -46,7 +46,7 @@ namespace Akhillesz
         {
             public Varos()
             {
-                Name = "varos";
+                Name = "város";
                 Cost = 300;
                 Defense = 0;
                 AdditionalIncome = 0;                
