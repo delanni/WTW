@@ -31,5 +31,80 @@ namespace Tricepsz.Knowledge
             return Math.Abs(dx) + Math.Abs(dy);
         }
 
+        public static int StepsTo(CityInfo one, CityInfo other)
+        {
+            return Math.Abs(one.PositionX - other.PositionX) + Math.Abs(one.PositionY - other.PositionY);
+        }
+
+        public static int StepsTo(Unit one, Unit other)
+        {
+            return Math.Abs(one.Position.X - other.Position.X) + Math.Abs(one.Position.Y - other.Position.Y);
+        }
+
+        public static int StepsTo(Unit one, CityInfo other)
+        {
+            return Math.Abs(one.Position.X - other.PositionX) + Math.Abs(one.Position.Y - other.PositionY);
+        }
+
+        internal static Position NextStep(CityInfo oneTown, CityInfo nearestTown)
+        {
+            var nextStep = new Position(oneTown.PositionX, oneTown.PositionY);
+            if (DateTime.Now.Millisecond % 2 == 0)
+            {
+                if (oneTown.PositionX != nearestTown.PositionX)
+                {
+                    nextStep.X += Math.Sign(nearestTown.PositionX - oneTown.PositionX);
+                }
+                else
+                {
+                    nextStep.Y += Math.Sign(nearestTown.PositionY - oneTown.PositionY);
+                }
+            }
+            else
+            {
+                if (oneTown.PositionY != nearestTown.PositionY)
+                {
+                    nextStep.Y += Math.Sign(nearestTown.PositionY - oneTown.PositionY);
+                }
+                else
+                {
+                    nextStep.X += Math.Sign(nearestTown.PositionX - oneTown.PositionX);
+                }
+            }
+            return nextStep;
+        }
+
+        internal static Position NextStep(Unit scout, CityInfo nearestTown)
+        {
+            var nextStep = new Position(scout.Position.X, scout.Position.Y);
+            if (DateTime.Now.Millisecond % 2 == 0)
+            {
+                if (scout.Position.X != nearestTown.PositionX)
+                {
+                    nextStep.X += Math.Sign(nearestTown.PositionX - scout.Position.X);
+                }
+                else
+                {
+                    nextStep.Y += Math.Sign(nearestTown.PositionY - scout.Position.Y);
+                }
+            }
+            else
+            {
+                if (scout.Position.Y != nearestTown.PositionY)
+                {
+                    nextStep.Y += Math.Sign(nearestTown.PositionY - scout.Position.Y);
+                }
+                else
+                {
+                    nextStep.X += Math.Sign(nearestTown.PositionX - scout.Position.X);
+                }
+            }
+            return nextStep;
+        }
+
+        internal static Position NextStep(Unit scout, Position theStepNextToOurTown)
+        {
+            return NextStep(scout, new CityInfo() { PositionX = theStepNextToOurTown.X, PositionY = theStepNextToOurTown.Y });
+        }
     }
 }

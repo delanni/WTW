@@ -33,7 +33,14 @@ namespace Tricepsz.Helpers
 
         void timer_Tick(object sender, EventArgs e)
         {
-            listBox1.DataSource = Messages.Where(x => x.Contains(textBox1.Text)).ToList();
+            try
+            {
+                listBox1.DataSource = Messages.Where(x => x.Contains(textBox1.Text)).ToList();
+            }
+            catch (Exception exc)
+            {
+
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

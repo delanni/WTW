@@ -17,9 +17,9 @@ namespace Tricepsz
         Debugger d;
         public TricepszPlayer()
         {
-            ai = new Actor("Johnny Bravo II.", "civ1", new RushStrategy());
-            d = new Debugger();
-            d.Show();
+            ai = new Actor("Johnny Bravo Tower.", "civ2", new RushStrategy());
+            //d = new Debugger();
+            //d.Show();
         }
 
         public string PlayerName
@@ -42,9 +42,15 @@ namespace Tricepsz
 
         public void ActionResult(WorldInfo world)
         {
-            // we receive the effects of our action, might be useful to refresh world state after an attack or step
-            // ai.Map = new Map(world);
-            ai.MinorUpdateObjectives();
+            try
+            {
+                // we receive the effects of our action, might be useful to refresh world state after an attack or step
+                ai.Map = new Map(world);
+                ai.MinorUpdateObjectives();
+            }
+            catch
+            {
+            }
         }
 
         #region Events that require response (IN ORDER)

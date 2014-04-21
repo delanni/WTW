@@ -11,7 +11,7 @@ using Tricepsz.Helpers;
 
 namespace Tricepsz.Strategies
 {
-    public class RushStrategy : Tricepsz.Strategies.IStrategy
+    public class CampStrategy : Tricepsz.Strategies.IStrategy
     {
         public List<Objective> Objectives { get; set; }
         public List<Order> Orders { get; set; }
@@ -19,13 +19,13 @@ namespace Tricepsz.Strategies
 
         private Objective buildInifiteArmy;
         private Objective foundInfiniteColonies;
-        private Objective moveScoutsToEnemyBases;
+        private Objective moveUnits;
         private Objective buildABarack;
         private Objective buildABlackSmith;
         private Objective buildATower;
         private Objective buildATown;
 
-        public RushStrategy()
+        public CampStrategy()
         {
             Research.Initialize();
 
@@ -106,9 +106,9 @@ namespace Tricepsz.Strategies
 
             #region Move Scouts
 
-            moveScoutsToEnemyBases = new Objective()
+            moveUnits = new Objective()
             {
-                Name = "ScoutsToAttack",
+                Name = "Move",
                 Operation = (orderList) =>
                 {
                     foreach (var scout in Actor.Map.Units.Where(x => x.Owner == Actor.Name))
@@ -117,7 +117,6 @@ namespace Tricepsz.Strategies
                         var enemyTowns = Actor.Map.Cities.Where(x => x.Owner != Actor.Name);
                         var ourTowns = Actor.Map.Cities.Except(enemyTowns);
                         var townsWithDistances = enemyTowns.Select(x => new { Town = x, Distance = Position.StepsTo(scout, x) });
-
 
                         var nearestTown = townsWithDistances.OrderBy(x => x.Distance).First().Town;
                         var outTownsWithDistances = ourTowns.Select(x => new { Town = x, Distance = Position.StepsTo(nearestTown, x) });
@@ -191,9 +190,9 @@ namespace Tricepsz.Strategies
                     }
                 });
 
-                //Objectives.Add(buildATower);
+                Objectives.Add(buildATower);
                 //Objectives.Add(buildABarack);
-                Objectives.Add(buildABlackSmith);
+                //Objectives.Add(buildABlackSmith);
                 Objectives.Add(buildInifiteArmy);
                 Objectives.Add(foundInfiniteColonies);
             }
@@ -203,7 +202,7 @@ namespace Tricepsz.Strategies
         {
             if (Orders == null) Orders = new List<Order>();
 
-            if (Orders.Count(x => x.Type == OrderType.UNITMOVE) == 0) Objectives.Add(moveScoutsToEnemyBases);
+            if (Orders.Count(x => x.Type == OrderType.UNITMOVE) == 0) Objectives.Add(moveUnits);
 
             var oldBuyOrders = Orders.Where(x => x.Type == OrderType.UNITBUY);
             Orders.RemoveAll(x=>oldBuyOrders.Contains(x));
@@ -226,7 +225,7 @@ namespace Tricepsz.Strategies
         {
             if (Orders == null) Orders = new List<Order>();
 
-            if (Orders.Count(x => x.Type == OrderType.UNITMOVE) == 0) Objectives.Add(moveScoutsToEnemyBases);
+            if (Orders.Count(x => x.Type == OrderType.UNITMOVE) == 0) Objectives.Add(moveUnits);
 
             List<Objective> finishedObjectives = new List<Objective>();
             foreach (var objective in Objectives)

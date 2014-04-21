@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CivSharp.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,10 @@ namespace Tricepsz.Knowledge
     public class Unit
     {
         public static Unit SCOUT = new Unit(UnitType.SCOUT);
+        public static Unit GUARD = new Unit(UnitType.GUARD);
+        public static Unit KNIGHT = new Unit(UnitType.KNIGHT);
+        public static Unit CHAMPION = new Unit(UnitType.CHAMPION);
+        public static Unit KNIGHTCHAMPION = new Unit(UnitType.KNIGHTCHAMPION);
 
         private UnitType _type;
         public UnitType Type
@@ -26,16 +31,16 @@ namespace Tricepsz.Knowledge
                         _setStats(50, 2, 10, 2, 3, 4, null, value);
                         break;
                     case UnitType.GUARD:
-                        _setStats(75, 5, 30, 6, 10, 1, Research.TOWER,value);
+                        _setStats(75, 5, 30, 6, 10, 1, Research.TOWER, value);
                         break;
                     case UnitType.KNIGHT:
-                        _setStats(150, 15, 20, 12, 8, 1, Research.BLACKSMITH,value);
+                        _setStats(150, 15, 20, 12, 8, 1, Research.BLACKSMITH, value);
                         break;
                     case UnitType.CHAMPION:
-                        _setStats(100, 10, 10, 6, 6, 2, Research.BARRACKS,value);
+                        _setStats(100, 10, 10, 6, 6, 2, Research.BARRACKS, value);
                         break;
                     case UnitType.KNIGHTCHAMPION:
-                        _setStats(200, 10, 10, 100, 6, 2, Research.ACADEMY,value);
+                        _setStats(200, 10, 10, 100, 6, 2, Research.ACADEMY, value);
                         break;
                     default:
                         break;
@@ -43,16 +48,19 @@ namespace Tricepsz.Knowledge
             }
         }
         public Research Dependency { get; set; }
-        public bool CanBuild { get { return Dependency == null; } }
         public int HitPoints { get; set; }
         public int MovementPoints { get; set; }
         public string Owner { get; set; }
         public string UnitId { get; set; }
         private string _unitTypeName;
-        public string UnitTypeName { get {
-            return _unitTypeName;
-        }
-            set {
+        public string UnitTypeName
+        {
+            get
+            {
+                return _unitTypeName;
+            }
+            set
+            {
                 _unitTypeName = value;
                 switch (value)
                 {
@@ -66,7 +74,7 @@ namespace Tricepsz.Knowledge
                         Type = UnitType.KNIGHT;
                         break;
                     case "vívó tanonc":
-                        Type = UnitType.CHAMPION ;
+                        Type = UnitType.CHAMPION;
                         break;
                     case "vívó mester":
                         Type = UnitType.KNIGHTCHAMPION;
@@ -153,6 +161,23 @@ namespace Tricepsz.Knowledge
                 default:
                     return "felderítő";
             }
+        }
+
+        internal static Unit GetTopUnitFor(PlayerInfo playerInfo, bool ignoreCash = false)
+        {
+            if (KNIGHTCHAMPION.CanBuild(playerInfo, ignoreCash)) return KNIGHTCHAMPION;
+            if (CHAMPION.CanBuild(playerInfo, ignoreCash)) return CHAMPION;
+            if (KNIGHT.CanBuild(playerInfo, ignoreCash)) return KNIGHT;
+            if (GUARD.CanBuild(playerInfo, ignoreCash)) return GUARD;
+
+            return SCOUT;
+        }
+
+        internal bool CanBuild(PlayerInfo playerInfo, bool ignoreCash = false)
+        {
+            var researches = playerInfo.Researched.Select(x => Research.FromName(x));
+            if ((this.Dependency == null || researches.Any(x=>x.Name == this.Dependency.Name)) && (ignoreCash || playerInfo.Money >= this.COST)) return true;
+            else return false;
         }
     }
 

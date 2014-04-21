@@ -27,8 +27,8 @@ namespace Tricepsz.Strategies
             // Invocation should yield true if the objective has finished, and may be disposed;
             var ordersBefore = Orders.Count;
             var result = Operation.Invoke(Orders);
-            Debugger.Log("Executing [operation: " + Name + "] was " + (result ? "success" : "failure"));
-            Debugger.Log("[operation: " + Name + "] yielded " + (Orders.Count - ordersBefore).ToString() + " new orders.");
+            //Debugger.Log("Executing [operation: " + Name + "] was " + (result ? "success" : "failure"));
+            //Debugger.Log("[operation: " + Name + "] yielded " + (Orders.Count - ordersBefore).ToString() + " new orders.");
             return result;
         }
         public void Clear()
