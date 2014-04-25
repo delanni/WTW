@@ -57,6 +57,7 @@
     <Compile Include="Knowledge\Position.cs" />
     <Compile Include="Knowledge\Research.cs" />
     <Compile Include="Knowledge\Unit.cs" />
+    <Compile Include="Strategies\CampStrategy.cs" />
     <Compile Include="Strategies\IStrategy.cs" />
     <Compile Include="Strategies\Objective.cs" />
     <Compile Include="Strategies\Order.cs" />

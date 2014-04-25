@@ -12,7 +12,7 @@ namespace Tricepsz.Actors
     public class Actor
     {
 
-        public Actor(string name, string civ, RushStrategy strategy)
+        public Actor(string name, string civ, IStrategy strategy)
         {
             this.Name = name;
             this.Civ = civ;
@@ -22,7 +22,7 @@ namespace Tricepsz.Actors
 
         public string Civ { get; set; }
         public string Name { get; set; }
-        public RushStrategy Strategy { get; set; }
+        public IStrategy Strategy { get; set; }
         public Map Map { get; set; }
         public int Round { get; set; }
         public PlayerInfo Player { get; set; }

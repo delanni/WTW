@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Tricepsz.Actors;
 namespace Tricepsz.Strategies
 {
-    interface IStrategy
+    public interface IStrategy
     {
         Actor Actor { get; set; }
         void MinorUpdateObjectives();

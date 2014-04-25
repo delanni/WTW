@@ -124,7 +124,7 @@ namespace Tricepsz.Strategies
 
                         var theStepNextToOurTown = Position.NextStep(ourNearestTown, nearestTown);
 
-                        var nextStep = Position.NextStep(scout, nearestTown);
+                        var nextStep = Position.NextStep(scout, theStepNextToOurTown);
 
                         orderList.Add(new Order(new CivSharp.Common.MovementData()
                         {
